@@ -2,6 +2,12 @@
 
 Este repositório contém exemplos práticos dos Padrões de Projeto Estruturais e Comportamentais, implementados em Python. O objetivo é servir como um material de estudo completo para a aula de Engenharia de Software, detalhando não apenas o código, mas também os conceitos, motivações e mecanismos de cada padrão.
 
+## Desafio de Refatoração
+
+Este repositório inclui um desafio prático para aplicar os padrões de projeto em um cenário real. O objetivo é refatorar um sistema de checkout monolítico para uma arquitetura mais flexível e desacoplada.
+
+[Clique aqui para ver o desafio](./desafio/desafio.md)
+
 ## Como Executar os Exemplos
 
 Para ver todos os padrões em ação, execute o script principal na raiz do projeto:
